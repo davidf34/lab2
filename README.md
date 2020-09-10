@@ -5,7 +5,7 @@ LABORATORIO 2
 PUNTO  1
 ===========================
 
-Descripción del laboratorio (punto 1)
+Descripción del laboratorio
 -------------------------------
 
 Se ejecuta en un ciclo infinito hasta que el usuario desee salir.
