@@ -50,6 +50,7 @@ Nota: Cada vez que se ejecuta una opción, el programa pregunta que nueva opció
 
 Diagrama
 -----------
+![Punto2 (2)](https://user-images.githubusercontent.com/69484071/92826450-53839e00-f396-11ea-84dd-fe70b1e2fdf6.jpg)
 
 
 
