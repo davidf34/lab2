@@ -46,6 +46,8 @@ Opciones del menú:
 6. La sexta opción es para mostrar la suma decimal de las palabras.
 7. La séptima opción es para salir del programa.
 
+Nota: Cada vez que se ejecuta una opción, el programa pregunta que nueva opción desea ejecutar.
+
 Diagrama
 -----------
 
