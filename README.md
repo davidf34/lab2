@@ -1,11 +1,10 @@
 # lab2_punto1_punto2
 ALSE
-============
+==============
 LABORATORIO 2 
-PUNTO  1
-===========================
+============================
 
-Descripción del laboratorio
+Descripción del laboratorio (punto 1)
 -------------------------------
 
 Se ejecuta en un ciclo infinito hasta que el usuario desee salir.
